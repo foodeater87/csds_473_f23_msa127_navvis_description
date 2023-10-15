@@ -14,7 +14,7 @@ find_package(catkin REQUIRED COMPONENTS
   urdf
   xacro
   gazebo_plugins
-  velodyn_description
+  velodyne_description
 )
 
 ## System dependencies are found with CMake's conventions
